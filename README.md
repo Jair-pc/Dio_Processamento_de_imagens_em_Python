@@ -23,7 +23,7 @@
 
 
 Description. 
->>>>>>> ec2cab4 (segundo commit)
+
 
 O processamento da imagem do pacote e usado para:
 	
@@ -46,12 +46,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 
 
 ```bash
-<<<<<<< HEAD
-pip install package_name
-=======
+
 pip install processador_imagem_virtual
->>>>>>> ec2cab4 (segundo commit)
-```
+
+
 
 ## Usage
 
