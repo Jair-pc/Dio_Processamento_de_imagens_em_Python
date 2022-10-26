@@ -1,11 +1,9 @@
 <h1 align="center">
-<<<<<<< HEAD
-<h1 align="center">
-=======
->>>>>>> ec2cab4 (segundo commit)
   <br>
   <img src="https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" alt="logo" height="300">
 </h1>
+
+#### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
 
 <<<<<<< HEAD
 <h1 align="center">
