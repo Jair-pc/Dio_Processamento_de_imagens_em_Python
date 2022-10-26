@@ -5,7 +5,7 @@
 
 #### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
 
-<<<<<<< HEAD
+
 <h1 align="center">
   PROCESSADOR DE IMAGEM VIRTUAL
 </h1>
