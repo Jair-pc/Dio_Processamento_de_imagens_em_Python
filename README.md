@@ -5,17 +5,6 @@
 
 #### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
 
-# Projeto de analise exploratória de dados para prever a evolução da covid-19 no Brasil
-
-
-<h1 align="center">
-  PROCESSADOR DE IMAGEM VIRTUAL
-</h1>
-	
-## Description. 
-=======
-#### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
-
 # # Processador de imagem virtual em Python
 
 ## Professora: Karina Kato
@@ -23,7 +12,6 @@
 
 
 Description. 
-
 
 O processamento da imagem do pacote e usado para:
 	
@@ -46,18 +34,14 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 
 
 ```bash
-
 pip install processador_imagem_virtual
-
-
+```
 
 ## Usage
 
 ```python
 from package_name import file1_name
 file1_name.my_function()
-<<<<<<< HEAD
-=======
 
 # Leitura da Imagem
 imagem = io.ler_imagem("image.jpg")
@@ -68,7 +52,6 @@ plot.plot_imagem(imagem)
 # Combinações das Imagens
 imagem_correspondente = combinacao.transferindo_histograma_dupla(imagem1, imagem2)
 plot.plot_imagem(imagem_correspondente)
->>>>>>> ec2cab4 (segundo commit)
 ```
 
 ## Author
